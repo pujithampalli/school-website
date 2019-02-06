@@ -1,0 +1,66 @@
+.top-header {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    background: white;
+    width: 90%;
+    height: 114px;
+    margin-right: 50px;
+  }
+
+  .header > div {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.header {
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+    font-family: 'Niconne', cursive;
+    font-weight: normal;
+    justify-content: space-evenly;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    padding:3px;
+  }
+
+.logo img{
+  height:100px !important;
+  width:200px !important;
+}
+
+.center-header {
+  margin-top: 25px;
+}
+
+.header-contact {
+  align-items: center;
+}
+
+.phone {
+  margin-top: 10px;
+}
+
+.item-padding{
+  position: relative;
+  margin-left: 20px;
+}
+
+.content{
+  margin-top:1px;
+}
+.navbar-margin{
+  margin-bottom:10px;
+}
+.navbar-expand-md {
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    background-color: #7094db;
+    margin-bottom:10px;
+    font-family: "Sans-serif";
+    font-size: 1.2em;
+    font-weight: bold;
+  }
