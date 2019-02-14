@@ -1,4 +1,4 @@
-# school-website
+# school-website (In progress)
 This is a simple React light-weight project built for any School/Play School. This can be used to get all the information about the school like contact, address, programs available, admissions enquiry, facilities provided etc.
 The application is developed mainly in React js and few other supporting technologies. Implemented React components, infinite scroll in components, responsive nav-bar etc.
 
